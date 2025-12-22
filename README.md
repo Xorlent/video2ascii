@@ -1,6 +1,15 @@
 # video2ascii
 
-WebGL-powered video to ASCII converter for React.
+WebGL-powered React Component for video to ASCII conversion.
+
+![gta.jpeg](./assets/gta.jpeg)
+
+
+## Installation
+
+```bash
+npm install video2ascii
+```
 
 ## Usage
 
